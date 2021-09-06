@@ -1,0 +1,6 @@
+#define TRIANGLE_AREA(x,y) (.5*x*y)
+#define TRIANGLE_PERI(x,y,z) (x+y+z)
+#define CIRCLE_AREA(x) ((22/7)*x*x)
+#define CIRCLE_PERI(x) (2*(22/7)*x)
+#define SQUARE_AREA(x) (x*x)
+#define SQUARE_PERI(x) (4*x)
